@@ -1,0 +1,211 @@
+{
+  "uid" : "c7399a864ab7be54",
+  "name" : "商铺修改用例",
+  "fullName" : "test_case.test_shop.TestShop#test_shop_update",
+  "historyId" : "c54a82fc872885e8c093bfa2ec37dc7f",
+  "time" : {
+    "start" : 1611331690075,
+    "stop" : 1611331690148,
+    "duration" : 73
+  },
+  "description" : "前置条件，商店存在用例",
+  "descriptionHtml" : "<p>前置条件，商店存在用例</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1611331680631,
+      "stop" : 1611331680631,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "shop_init",
+    "time" : {
+      "start" : 1611331688827,
+      "stop" : 1611331690075,
+      "duration" : 1248
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1611331680631,
+      "stop" : 1611331680631,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "sensitive_url",
+    "time" : {
+      "start" : 1611331680631,
+      "stop" : 1611331680631,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_skip_sensitive",
+    "time" : {
+      "start" : 1611331688822,
+      "stop" : 1611331688822,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "start",
+    "time" : {
+      "start" : 1611331688822,
+      "stop" : 1611331688826,
+      "duration" : 4
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "shop",
+    "time" : {
+      "start" : 1611331684324,
+      "stop" : 1611331684324,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "login_init",
+    "time" : {
+      "start" : 1611331680639,
+      "stop" : 1611331680700,
+      "duration" : 61
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "start::0",
+    "time" : {
+      "start" : 1611331690148,
+      "stop" : 1611331690148,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "商铺修改"
+  }, {
+    "name" : "feature",
+    "value" : "商铺模块"
+  }, {
+    "name" : "epic",
+    "value" : "外卖项目"
+  }, {
+    "name" : "tag",
+    "value" : "shop_update"
+  }, {
+    "name" : "tag",
+    "value" : "shop"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_shop"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestShop"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-U5N0137A"
+  }, {
+    "name" : "thread",
+    "value" : "27024-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_shop"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "in_data",
+    "value" : "({'name': '星巴克新建店', 'address': '上海市静安区秣陵路303号', 'id': '3269', 'Phone': '13176876632', 'rating': '6.0', 'recent_order_num': 100, 'category': '快餐便当/简餐', 'description': '满30减5，满60减8', 'image_path': 'b8be9abc-a85f-4b5b-ab13-52f48538f96c.png', 'image': 'http://121.41.14.39:8082/file/getImgStream?fileName=b8be9abc-a85f-4b5b-ab13-52f48538f96c.png'}, {'code': 20000})"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "shop_update", "shop" ]
+  },
+  "source" : "c7399a864ab7be54.json",
+  "parameterValues" : [ "({'name': '星巴克新建店', 'address': '上海市静安区秣陵路303号', 'id': '3269', 'Phone': '13176876632', 'rating': '6.0', 'recent_order_num': 100, 'category': '快餐便当/简餐', 'description': '满30减5，满60减8', 'image_path': 'b8be9abc-a85f-4b5b-ab13-52f48538f96c.png', 'image': 'http://121.41.14.39:8082/file/getImgStream?fileName=b8be9abc-a85f-4b5b-ab13-52f48538f96c.png'}, {'code': 20000})" ]
+}

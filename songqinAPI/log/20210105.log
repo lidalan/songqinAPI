@@ -1,0 +1,42 @@
+
+ERROR:root:('division by zero',)
+ERROR:root:Traceback (most recent call last):
+  File "D:/project/songqin/python基础/日志.py", line 16, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+
+ERROR:root:Traceback (most recent call last):
+  File "D:/project/songqin/python基础/日志.py", line 16, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+
+ERROR:root:Traceback (most recent call last):
+  File "D:/project/songqin/python基础/日志.py", line 16, in <module>
+    1 / 'q'
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+
+ERROR:root:21-01_05 42:21:STraceback (most recent call last):
+  File "D:/project/songqin/python基础/日志.py", line 16, in <module>
+    1 / 'q'
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+
+ERROR:root:21-01_05 42:21:S Traceback (most recent call last):
+  File "D:/project/songqin/python基础/日志.py", line 16, in <module>
+    1 / 'q'
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+
+ERROR:root:21-01_05 43:21:26--Traceback (most recent call last):
+  File "D:/project/songqin/python基础/日志.py", line 16, in <module>
+    1 / 'q'
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+
+ERROR:root:21-01_05 53:21:43--Traceback (most recent call last):
+  File "D:/project/songqin/python基础/日志.py", line 17, in <module>
+    1 / 'q'
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+
+ERROR:root:21-01-05 21:54:00--Traceback (most recent call last):
+  File "D:/project/songqin/python基础/日志.py", line 17, in <module>
+    1 / 'q'
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+

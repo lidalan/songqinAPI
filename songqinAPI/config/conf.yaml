@@ -1,0 +1,57 @@
+# 注释--------
+# 字典: 空格
+#info: 配置文件    # -配置文件不建议使用中文
+#HOST: http://121.41.14.39:8082  # 账号
+#username: md0083  # 密码
+#password: 37924
+#login_data:
+#  username: md0083
+#  password: 37924
+
+
+## 列表嵌套列表
+#- md0083
+#- md0084
+#-
+#  - md0085
+#  - md0086
+
+
+#
+#- 29
+#- 40
+#-
+#  name: yuad
+#  pwd:
+#    - 12
+#    - 13
+
+
+# 特殊字符  双引号转义
+#name: 200    # int
+#pwd: '200'   # str
+#yy: '9876\neee'    # 单引号不会转义
+#bb: 9876\neee      # 不会转义
+#cc: "9876\neee"     # 双引号转义
+#dd: ""
+
+# 引用---类似与变量---多处引用
+
+#   &  定义
+#   *  引用变量
+#info: &a http://121.41.14.39:8082/es
+#name1: *a
+#name2: *a
+#name3: *a
+#name4: *a
+
+# 多个yaml
+#  ---分隔符
+- 10
+- 30
+---
+name: 123
+
+
+# yaml文件嵌套yaml
+date: login_case.yaml

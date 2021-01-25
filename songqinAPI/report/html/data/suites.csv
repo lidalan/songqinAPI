@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jan 24 11:06:03 CST 2021","Sun Jan 24 11:06:03 CST 2021","60","test_case","test_shop","TestShop","","","{'page': 0, 'limit': 1}","前置条件，商店存在用例"
+"passed","Sun Jan 24 11:06:03 CST 2021","Sun Jan 24 11:06:03 CST 2021","76","test_case","test_shop","TestShop","","","{'page': 1, 'limit': 1}","前置条件，商店存在用例"
+"passed","Sun Jan 24 11:06:03 CST 2021","Sun Jan 24 11:06:03 CST 2021","61","test_case","test_shop","TestShop","","","{'page': -1, 'limit': 1}","前置条件，商店存在用例"
+"passed","Sun Jan 24 11:06:03 CST 2021","Sun Jan 24 11:06:03 CST 2021","62","test_case","test_shop","TestShop","","","{'page': 1, 'limit': 0}","前置条件，商店存在用例"
+"passed","Sun Jan 24 11:06:03 CST 2021","Sun Jan 24 11:06:03 CST 2021","64","test_case","test_shop","TestShop","","","{'page': 1, 'limit': -1}","前置条件，商店存在用例"
+"passed","Sun Jan 24 11:06:03 CST 2021","Sun Jan 24 11:06:03 CST 2021","60","test_case","test_shop","TestShop","","","{'page': 1, 'limit': 21}","前置条件，商店存在用例"
+"passed","Sun Jan 24 11:06:03 CST 2021","Sun Jan 24 11:06:03 CST 2021","62","test_case","test_shop","TestShop","","","{'page': 2, 'limit': 1}","前置条件，商店存在用例"

@@ -1,0 +1,291 @@
+[ {
+  "uid" : "8a5fd92c6384a919",
+  "name" : "商铺列表用例",
+  "time" : {
+    "start" : 1611331692873,
+    "stop" : 1611331692937,
+    "duration" : 64
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aedddd71edc12d9f",
+  "name" : "商铺列表用例",
+  "time" : {
+    "start" : 1611331692726,
+    "stop" : 1611331692798,
+    "duration" : 72
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8377183dc06a3cf4",
+  "name" : "商铺列表用例",
+  "time" : {
+    "start" : 1611331693023,
+    "stop" : 1611331693073,
+    "duration" : 50
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41d91600b0aa3e6b",
+  "name" : "错误商铺id",
+  "time" : {
+    "start" : 1611331680787,
+    "stop" : 1611331680849,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d4b0993e1480bd1",
+  "name" : "商铺店铺id正确",
+  "time" : {
+    "start" : 1611331683838,
+    "stop" : 1611331683895,
+    "duration" : 57
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5115cf138fc951b2",
+  "name" : "登录用例",
+  "time" : {
+    "start" : 1611331684123,
+    "stop" : 1611331684180,
+    "duration" : 57
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c18fdf1142848611",
+  "name" : "登录用例",
+  "time" : {
+    "start" : 1611331683989,
+    "stop" : 1611331684044,
+    "duration" : 55
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbdac5022c2727ea",
+  "name" : "登录用例",
+  "time" : {
+    "start" : 1611331684054,
+    "stop" : 1611331684115,
+    "duration" : 61
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78a47fa586247590",
+  "name" : "登录用例",
+  "time" : {
+    "start" : 1611331683913,
+    "stop" : 1611331683975,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abf7fd7ec8815466",
+  "name" : "商铺修改用例",
+  "time" : {
+    "start" : 1611331685015,
+    "stop" : 1611331685068,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1154e0faf2cbb088",
+  "name" : "商铺列表用例",
+  "time" : {
+    "start" : 1611331692643,
+    "stop" : 1611331692710,
+    "duration" : 67
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f86aae0b5df5c19e",
+  "name" : "商铺列表用例",
+  "time" : {
+    "start" : 1611331692799,
+    "stop" : 1611331692862,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7afc537d8b088410",
+  "name" : "错误商铺id",
+  "time" : {
+    "start" : 1611331680700,
+    "stop" : 1611331680787,
+    "duration" : 87
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27a63ecb37e2a31c",
+  "name" : "商铺店铺id正确",
+  "time" : {
+    "start" : 1611331682669,
+    "stop" : 1611331682742,
+    "duration" : 73
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7c31569f10f1396",
+  "name" : "商铺列表用例",
+  "time" : {
+    "start" : 1611331692953,
+    "stop" : 1611331693007,
+    "duration" : 54
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7010531b7e6009e0",
+  "name" : "商铺店铺id正确",
+  "time" : {
+    "start" : 1611331681535,
+    "stop" : 1611331681604,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "500b4f45a4e4b479",
+  "name" : "商铺修改用例",
+  "time" : {
+    "start" : 1611331686304,
+    "stop" : 1611331686374,
+    "duration" : 70
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "900b053ab968b39d",
+  "name" : "错误商铺id",
+  "time" : {
+    "start" : 1611331681065,
+    "stop" : 1611331681119,
+    "duration" : 54
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8544f13782b32ed9",
+  "name" : "登录用例",
+  "time" : {
+    "start" : 1611331684190,
+    "stop" : 1611331684244,
+    "duration" : 54
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7399a864ab7be54",
+  "name" : "商铺修改用例",
+  "time" : {
+    "start" : 1611331690075,
+    "stop" : 1611331690148,
+    "duration" : 73
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "874d296ee4e5bb7e",
+  "name" : "错误商铺id",
+  "time" : {
+    "start" : 1611331680934,
+    "stop" : 1611331680988,
+    "duration" : 54
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "acd8d00bd7e79858",
+  "name" : "商铺修改用例",
+  "time" : {
+    "start" : 1611331687472,
+    "stop" : 1611331687524,
+    "duration" : 52
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a5467d7f62a0fd1",
+  "name" : "商铺修改用例",
+  "time" : {
+    "start" : 1611331688740,
+    "stop" : 1611331688809,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a2c8bcb5008c267",
+  "name" : "登录用例",
+  "time" : {
+    "start" : 1611331684255,
+    "stop" : 1611331684316,
+    "duration" : 61
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d8926cc067b45ef",
+  "name" : "错误商铺id",
+  "time" : {
+    "start" : 1611331680865,
+    "stop" : 1611331680918,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "feed2f142f4a96a5",
+  "name" : "商铺列表用例",
+  "time" : {
+    "start" : 1611331693089,
+    "stop" : 1611331693136,
+    "duration" : 47
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b010c476f2b750d",
+  "name" : "商铺修改用例",
+  "time" : {
+    "start" : 1611331692550,
+    "stop" : 1611331692628,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30f9defa2fc59801",
+  "name" : "商铺修改用例",
+  "time" : {
+    "start" : 1611331691183,
+    "stop" : 1611331691235,
+    "duration" : 52
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36fd54a44f3a51c7",
+  "name" : "错误商铺id",
+  "time" : {
+    "start" : 1611331680988,
+    "stop" : 1611331681051,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

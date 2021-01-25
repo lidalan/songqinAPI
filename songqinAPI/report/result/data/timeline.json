@@ -1,0 +1,390 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-U5N0137A",
+    "children" : [ {
+      "name" : "27024-MainThread",
+      "children" : [ {
+        "name" : "登录用例",
+        "uid" : "c18fdf1142848611",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331683989,
+          "stop" : 1611331684044,
+          "duration" : 55
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'username': 'sq0777', 'password': ''}, {'code': 9999, 'data': '', 'flag': '松勤教育', 'msg': '输入的密码错误!', 'success': False})" ]
+      }, {
+        "name" : "登录用例",
+        "uid" : "5115cf138fc951b2",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331684123,
+          "stop" : 1611331684180,
+          "duration" : 57
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'username': '', 'password': ''}, {'code': 9999, 'data': '', 'flag': '松勤教育', 'msg': '该用户不存在!', 'success': False})" ]
+      }, {
+        "name" : "登录用例",
+        "uid" : "8544f13782b32ed9",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331684190,
+          "stop" : 1611331684244,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'username': 'sq0777', 'password': '789'}, {'code': 9999, 'data': '', 'flag': '松勤教育', 'msg': '输入的密码错误!', 'success': False})" ]
+      }, {
+        "name" : "错误商铺id",
+        "uid" : "874d296ee4e5bb7e",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331680934,
+          "stop" : 1611331680988,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'restaurant_id': ''}, {'code': 20000, 'data': '', 'flag': '松勤教育', 'msg': '成功', 'success': False})" ]
+      }, {
+        "name" : "登录用例",
+        "uid" : "cbdac5022c2727ea",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331684054,
+          "stop" : 1611331684115,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'username': '', 'password': 'xintian'}, {'code': 9999, 'data': '', 'flag': '松勤教育', 'msg': '该用户不存在!', 'success': False})" ]
+      }, {
+        "name" : "商铺列表用例",
+        "uid" : "f86aae0b5df5c19e",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331692799,
+          "stop" : 1611331692862,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'page': -1, 'limit': 1}, {'code': 20000})" ]
+      }, {
+        "name" : "错误商铺id",
+        "uid" : "4d8926cc067b45ef",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331680865,
+          "stop" : 1611331680918,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'restaurant_id': '你好'}, {'error': 'Bad Request', 'status': 400})" ]
+      }, {
+        "name" : "登录用例",
+        "uid" : "6a2c8bcb5008c267",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331684255,
+          "stop" : 1611331684316,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'username': 'abcde', 'password': 'xintian'}, {'code': 9999, 'data': '', 'flag': '松勤教育', 'msg': '该用户不存在!', 'success': False})" ]
+      }, {
+        "name" : "错误商铺id",
+        "uid" : "900b053ab968b39d",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331681065,
+          "stop" : 1611331681119,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'restaurant_id': '123你'}, {'error': 'Bad Request', 'status': 400})" ]
+      }, {
+        "name" : "商铺列表用例",
+        "uid" : "8a5fd92c6384a919",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331692873,
+          "stop" : 1611331692937,
+          "duration" : 64
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'page': 2, 'limit': 1}, {'code': 20000})" ]
+      }, {
+        "name" : "商铺店铺id正确",
+        "uid" : "2d4b0993e1480bd1",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331683838,
+          "stop" : 1611331683895,
+          "duration" : 57
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'restaurant_id': '3269'}, {'code': 20000, 'data': '', 'flag': '松勤教育', 'msg': '成功', 'success': False})" ]
+      }, {
+        "name" : "商铺列表用例",
+        "uid" : "feed2f142f4a96a5",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331693089,
+          "stop" : 1611331693136,
+          "duration" : 47
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'page': 1, 'limit': 21}, {'code': 20000})" ]
+      }, {
+        "name" : "商铺列表用例",
+        "uid" : "d7c31569f10f1396",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331692953,
+          "stop" : 1611331693007,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'page': 1, 'limit': 0}, {'code': 20000})" ]
+      }, {
+        "name" : "商铺店铺id正确",
+        "uid" : "7010531b7e6009e0",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331681535,
+          "stop" : 1611331681604,
+          "duration" : 69
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'restaurant_id': '3269', 'name': '牛奶'}, {'code': 20000})" ]
+      }, {
+        "name" : "商铺修改用例",
+        "uid" : "500b4f45a4e4b479",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331686304,
+          "stop" : 1611331686374,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'name': '星巴克新建店', 'address': '上海市静安区秣陵街道303号路', 'id': '3269', 'Phone': '13176876632', 'rating': '6.0', 'recent_order_num': 100, 'category': '快餐便当/简餐', 'description': '满30减5，满60减8', 'image_path': 'b8be9abc-a85f-4b5b-ab13-52f48538f96c.png', 'image': 'http://121.41.14.39:8082/file/getImgStream?fileName=b8be9abc-a85f-4b5b-ab13-52f48538f96c.png'}, {'code': 20000})" ]
+      }, {
+        "name" : "商铺修改用例",
+        "uid" : "acd8d00bd7e79858",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331687472,
+          "stop" : 1611331687524,
+          "duration" : 52
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'name': '星巴克新建店', 'address': '上海市静安区秣陵路303号', 'id': '3269', 'Phone': '13176876632', 'rating': '5.0', 'recent_order_num': 100, 'category': '快餐便当/简餐', 'description': '满30减5，满60减8', 'image_path': 'b8be9abc-a85f-4b5b-ab13-52f48538f96c.png', 'image': 'http://121.41.14.39:8082/file/getImgStream?fileName=b8be9abc-a85f-4b5b-ab13-52f48538f96c.png'}, {'code': 20000})" ]
+      }, {
+        "name" : "登录用例",
+        "uid" : "78a47fa586247590",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331683913,
+          "stop" : 1611331683975,
+          "duration" : 62
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'username': 'sq0777', 'password': 'xintian'}, {'code': 20000, 'data': {'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTg1MTE1MDMsInVzZXJJZCI6MSwidXNlcm5hbWUiOiJhZG1pbiJ9.NcuSGdggtGJLx7BdxsB1OA2tEJcs94e4grvs6JZ2p_Q'}, 'flag': '松勤教育', 'msg': '成功', 'success': False})" ]
+      }, {
+        "name" : "商铺修改用例",
+        "uid" : "30f9defa2fc59801",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331691183,
+          "stop" : 1611331691235,
+          "duration" : 52
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'name': '星巴克新建店', 'address': '上海市静安区秣陵路303号', 'id': '3269', 'Phone': '13176876632', 'rating': '6.0', 'recent_order_num': 100, 'category': '快餐便当/简餐', 'description': '满30减5，满60减8', 'image_path': 'b8be9abc-a85f-4b5b-ab13-52f48538f96c.png', 'image': 'http://121.41.14.39:8082/file/getImgStream?fileName=b8be9abc-a85f-4b5b-ab13-52f48538f96c.png'}, {'code': 20000})" ]
+      }, {
+        "name" : "商铺修改用例",
+        "uid" : "8a5467d7f62a0fd1",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331688740,
+          "stop" : 1611331688809,
+          "duration" : 69
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'name': '星巴克新建店', 'address': '上海市静安区秣陵路303号', 'id': '3269', 'Phone': '13176876632', 'rating': '5.0', 'recent_order_num': 110, 'category': '快餐便当/简餐', 'description': '满30减5，满60减8', 'image_path': 'b8be9abc-a85f-4b5b-ab13-52f48538f96c.png', 'image': 'http://121.41.14.39:8082/file/getImgStream?fileName=b8be9abc-a85f-4b5b-ab13-52f48538f96c.png'}, {'code': 20000})" ]
+      }, {
+        "name" : "商铺修改用例",
+        "uid" : "c7399a864ab7be54",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331690075,
+          "stop" : 1611331690148,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'name': '星巴克新建店', 'address': '上海市静安区秣陵路303号', 'id': '3269', 'Phone': '13176876632', 'rating': '6.0', 'recent_order_num': 100, 'category': '快餐便当/简餐', 'description': '满30减5，满60减8', 'image_path': 'b8be9abc-a85f-4b5b-ab13-52f48538f96c.png', 'image': 'http://121.41.14.39:8082/file/getImgStream?fileName=b8be9abc-a85f-4b5b-ab13-52f48538f96c.png'}, {'code': 20000})" ]
+      }, {
+        "name" : "错误商铺id",
+        "uid" : "7afc537d8b088410",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331680700,
+          "stop" : 1611331680787,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'restaurant_id': '9999999999'}, {'code': 20000, 'data': '', 'flag': '松勤教育', 'msg': '成功', 'success': False})" ]
+      }, {
+        "name" : "商铺修改用例",
+        "uid" : "abf7fd7ec8815466",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331685015,
+          "stop" : 1611331685068,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'name': '星巴克新建店', 'address': '上海市静安区秣陵路303号', 'id': '3269', 'Phone': '13176876632', 'rating': '6.0', 'recent_order_num': 100, 'category': '快餐便当/简餐', 'description': '满30减5，满60减8', 'image_path': 'b8be9abc-a85f-4b5b-ab13-52f48538f96c.png', 'image': 'http://121.41.14.39:8082/file/getImgStream?fileName=b8be9abc-a85f-4b5b-ab13-52f48538f96c.png'}, {'code': 20000})" ]
+      }, {
+        "name" : "商铺店铺id正确",
+        "uid" : "27a63ecb37e2a31c",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331682669,
+          "stop" : 1611331682742,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'restaurant_id': '3269', 'name': '牛奶', 'description': '旺仔牛奶'}, {'code': 20000})" ]
+      }, {
+        "name" : "商铺修改用例",
+        "uid" : "4b010c476f2b750d",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331692550,
+          "stop" : 1611331692628,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'name': '星巴克新建店', 'address': '上海市静安区秣陵路303号', 'id': '3269', 'Phone': '13176876632', 'rating': '6.0', 'recent_order_num': 100, 'category': '快餐便当/简餐', 'description': '满30减5，满60减8', 'image_path': 'b8be9abc-a85f-4b5b-ab13-52f48538f96c.png', 'image': 'http://121.41.14.39:8082/file/getImgStream?fileName=b8be9abc-a85f-4b5b-ab13-52f48538f96c.png'}, {'code': 20000})" ]
+      }, {
+        "name" : "错误商铺id",
+        "uid" : "41d91600b0aa3e6b",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331680787,
+          "stop" : 1611331680849,
+          "duration" : 62
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'restaurant_id': 'aaaaa'}, {'error': 'Bad Request', 'status': 400})" ]
+      }, {
+        "name" : "商铺列表用例",
+        "uid" : "aedddd71edc12d9f",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331692726,
+          "stop" : 1611331692798,
+          "duration" : 72
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'page': 0, 'limit': 1}, {'code': 20000})" ]
+      }, {
+        "name" : "错误商铺id",
+        "uid" : "36fd54a44f3a51c7",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331680988,
+          "stop" : 1611331681051,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'restaurant_id': '123as'}, {'error': 'Bad Request', 'status': 400})" ]
+      }, {
+        "name" : "商铺列表用例",
+        "uid" : "1154e0faf2cbb088",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331692643,
+          "stop" : 1611331692710,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'page': 1, 'limit': 1}, {'code': 20000})" ]
+      }, {
+        "name" : "商铺列表用例",
+        "uid" : "8377183dc06a3cf4",
+        "parentUid" : "a1a4e937a961a60e238a9f029ad42c1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611331693023,
+          "stop" : 1611331693073,
+          "duration" : 50
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "({'page': 1, 'limit': -1}, {'code': 20000})" ]
+      } ],
+      "uid" : "a1a4e937a961a60e238a9f029ad42c1d"
+    } ],
+    "uid" : "8f85f56a6812429602545800474057de"
+  } ]
+}

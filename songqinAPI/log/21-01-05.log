@@ -1,0 +1,5 @@
+ERROR:root:21-01-05 21:54:31--Traceback (most recent call last):
+  File "D:/project/songqin/python»ù´¡/ÈÕÖ¾.py", line 17, in <module>
+    1 / 'q'
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+
